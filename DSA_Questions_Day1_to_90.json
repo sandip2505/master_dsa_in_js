@@ -1,0 +1,4952 @@
+[
+    {
+        "day": 1,
+        "questions": [
+            {
+                "question": "Find the maximum number in an array",
+                "input": "[3, 5, 1, 8, 2]",
+                "expected_output": "8"
+            },
+            {
+                "question": "Reverse a string",
+                "input": "\"hello\"",
+                "expected_output": "\"olleh\""
+            },
+            {
+                "question": "Check if a number is even or odd",
+                "input": "7",
+                "expected_output": "\"odd\""
+            },
+            {
+                "question": "Calculate factorial of a number",
+                "input": "5",
+                "expected_output": "120"
+            },
+            {
+                "question": "Find the sum of an array",
+                "input": "[1, 2, 3, 4, 5]",
+                "expected_output": "15"
+            },
+            {
+                "question": "Find the smallest number in an array",
+                "input": "[6, 2, 9, 1, 5]",
+                "expected_output": "1"
+            },
+            {
+                "question": "Check if a character is a vowel",
+                "input": "\"e\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Convert Celsius to Fahrenheit",
+                "input": "0",
+                "expected_output": "32"
+            },
+            {
+                "question": "Print multiplication table of a number",
+                "input": "3",
+                "expected_output": "[3,6,9,12,15,18,21,24,27,30]"
+            },
+            {
+                "question": "Swap two variables",
+                "input": "a = 5, b = 10",
+                "expected_output": "a = 10, b = 5"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 8,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 9,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 10,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 11,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 12,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 13,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 14,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 15,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 16,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 17,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 18,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 19,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 20,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 21,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 22,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 23,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 24,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 25,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 26,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 27,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 28,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 29,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 30,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 31,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 32,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 33,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 34,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 35,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 36,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 37,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 38,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 39,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 40,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 41,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 42,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 43,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 44,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 45,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 46,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 47,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 48,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 49,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 50,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 51,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 52,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 53,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 54,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 55,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 56,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 57,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 58,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 59,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 60,
+        "questions": [
+            {
+                "question": "Binary Search",
+                "input": "[1, 3, 5, 7, 9], target = 5",
+                "expected_output": "2"
+            },
+            {
+                "question": "Bubble Sort",
+                "input": "[4, 2, 7, 1]",
+                "expected_output": "[1, 2, 4, 7]"
+            },
+            {
+                "question": "Check for Anagram",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Move Zeroes to End",
+                "input": "[0, 1, 0, 3, 12]",
+                "expected_output": "[1, 3, 12, 0, 0]"
+            },
+            {
+                "question": "Two Sum Problem",
+                "input": "[2, 7, 11, 15], target = 9",
+                "expected_output": "[0, 1]"
+            },
+            {
+                "question": "Find Duplicates in Array",
+                "input": "[1, 2, 3, 2, 4]",
+                "expected_output": "[2]"
+            },
+            {
+                "question": "Sliding Window Maximum",
+                "input": "[1,3,-1,-3,5,3,6,7], k = 3",
+                "expected_output": "[3,3,5,5,6,7]"
+            },
+            {
+                "question": "Valid Parentheses",
+                "input": "\"()[]{}\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Next Greater Element",
+                "input": "[4, 5, 2, 25]",
+                "expected_output": "[5, 25, 25, -1]"
+            },
+            {
+                "question": "Longest Substring Without Repeating Characters",
+                "input": "\"abcabcbb\"",
+                "expected_output": "3"
+            }
+        ]
+    },
+    {
+        "day": 61,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 62,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 63,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 64,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 65,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 66,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 67,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 68,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 69,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 70,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 71,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 72,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 73,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 74,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 75,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 76,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 77,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 78,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 79,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 80,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 81,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 82,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 83,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 84,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 85,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 86,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 87,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 88,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 89,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    },
+    {
+        "day": 90,
+        "questions": [
+            {
+                "question": "DFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "BFS of Graph",
+                "input": "{0: [1, 2], 1: [0], 2: [0]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "Check Cycle in Undirected Graph",
+                "input": "{0: [1], 1: [0, 2], 2: [1]}",
+                "expected_output": "false"
+            },
+            {
+                "question": "Lowest Common Ancestor in BST",
+                "input": "BST with nodes 5,3,8,1,4 and target nodes 1,4",
+                "expected_output": "3"
+            },
+            {
+                "question": "Topological Sort",
+                "input": "{0:[1],1:[2],2:[]}",
+                "expected_output": "[0, 1, 2]"
+            },
+            {
+                "question": "0/1 Knapsack",
+                "input": "weights=[1,3,4], values=[15,20,30], W=4",
+                "expected_output": "30"
+            },
+            {
+                "question": "Matrix Chain Multiplication",
+                "input": "[10, 20, 30]",
+                "expected_output": "6000"
+            },
+            {
+                "question": "Longest Increasing Subsequence",
+                "input": "[10,9,2,5,3,7,101,18]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Word Break Problem",
+                "input": "\"leetcode\", wordDict=[\"leet\",\"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "N-Queens",
+                "input": "n = 4",
+                "expected_output": "[[.Q..,..Q,Q...,..Q.]]"
+            }
+        ]
+    }
+]
