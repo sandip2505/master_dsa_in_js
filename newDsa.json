@@ -1,0 +1,1102 @@
+[
+    {
+        "day": 1,
+        "questions": [
+            {
+                "question": "Find the maximum number in an array",
+                "input": "[3, 5, 1, 8, 2]",
+                "expected_output": "8"
+            },
+            {
+                "question": "Reverse a string",
+                "input": "\"hello\"",
+                "expected_output": "\"olleh\""
+            },
+            {
+                "question": "Check if a number is even or odd",
+                "input": "7",
+                "expected_output": "\"odd\""
+            },
+            {
+                "question": "Calculate factorial of a number",
+                "input": "5",
+                "expected_output": "120"
+            },
+            {
+                "question": "Find the sum of an array",
+                "input": "[1, 2, 3, 4, 5]",
+                "expected_output": "15"
+            },
+            {
+                "question": "Find the smallest number in an array",
+                "input": "[6, 2, 9, 1, 5]",
+                "expected_output": "1"
+            },
+            {
+                "question": "Check if a character is a vowel",
+                "input": "\"e\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Convert Celsius to Fahrenheit",
+                "input": "0",
+                "expected_output": "32"
+            },
+            {
+                "question": "Print multiplication table of a number",
+                "input": "3",
+                "expected_output": "[3, 6, 9, 12, 15, 18, 21, 24, 27, 30]"
+            },
+            {
+                "question": "Swap two variables",
+                "input": "a = 5, b = 10",
+                "expected_output": "a = 10, b = 5"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "questions": [
+            {
+                "question": "Find the second largest number",
+                "input": "[10, 5, 20, 8]",
+                "expected_output": "10"
+            },
+            {
+                "question": "Count vowels in a string",
+                "input": "\"hello world\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Check if string is palindrome",
+                "input": "\"madam\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find average of numbers in array",
+                "input": "[2, 4, 6, 8]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find all even numbers up to N",
+                "input": "n = 10",
+                "expected_output": "[2, 4, 6, 8, 10]"
+            },
+            {
+                "question": "Sum of digits",
+                "input": "1234",
+                "expected_output": "10"
+            },
+            {
+                "question": "Check Armstrong number",
+                "input": "153",
+                "expected_output": "true"
+            },
+            {
+                "question": "Fibonacci up to N terms",
+                "input": "n = 5",
+                "expected_output": "[0, 1, 1, 2, 3]"
+            },
+            {
+                "question": "Find GCD of two numbers",
+                "input": "20, 28",
+                "expected_output": "4"
+            },
+            {
+                "question": "Find LCM of two numbers",
+                "input": "12, 15",
+                "expected_output": "60"
+            }
+        ]
+    },
+    {
+        "day": 3,
+        "questions": [
+            {
+                "question": "Count occurrences of a character in a string",
+                "input": "\"hello world\", \"l\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Remove duplicates from an array",
+                "input": "[1, 2, 2, 3, 4, 4, 5]",
+                "expected_output": "[1, 2, 3, 4, 5]"
+            },
+            {
+                "question": "Check if a year is leap year",
+                "input": "2024",
+                "expected_output": "true"
+            },
+            {
+                "question": "Convert decimal to binary",
+                "input": "10",
+                "expected_output": "\"1010\""
+            },
+            {
+                "question": "Find the power of a number",
+                "input": "base = 2, exponent = 3",
+                "expected_output": "8"
+            },
+            {
+                "question": "Check if a number is prime",
+                "input": "17",
+                "expected_output": "true"
+            },
+            {
+                "question": "Convert binary to decimal",
+                "input": "\"1010\"",
+                "expected_output": "10"
+            },
+            {
+                "question": "Sort an array in ascending order",
+                "input": "[5, 1, 9, 3, 7]",
+                "expected_output": "[1, 3, 5, 7, 9]"
+            },
+            {
+                "question": "Capitalize first letter of each word",
+                "input": "\"hello world\"",
+                "expected_output": "\"Hello World\""
+            },
+            {
+                "question": "Count number of words in a string",
+                "input": "\"The quick brown fox\"",
+                "expected_output": "4"
+            }
+        ]
+    },
+    {
+        "day": 4,
+        "questions": [
+            {
+                "question": "Check if two strings are anagrams",
+                "input": "\"listen\", \"silent\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the intersection of two arrays",
+                "input": "[1, 2, 3, 4], [3, 4, 5, 6]",
+                "expected_output": "[3, 4]"
+            },
+            {
+                "question": "Convert a string to title case",
+                "input": "\"the quick brown fox\"",
+                "expected_output": "\"The Quick Brown Fox\""
+            },
+            {
+                "question": "Count number of consonants in a string",
+                "input": "\"hello world\"",
+                "expected_output": "7"
+            },
+            {
+                "question": "Find the median of an array",
+                "input": "[5, 2, 9, 1, 7]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Calculate compound interest",
+                "input": "principal = 1000, rate = 0.05, time = 2, compounded = 1",
+                "expected_output": "1102.5"
+            },
+            {
+                "question": "Remove spaces from a string",
+                "input": "\"hello world\"",
+                "expected_output": "\"helloworld\""
+            },
+            {
+                "question": "Check if a number is perfect",
+                "input": "28",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the union of two arrays",
+                "input": "[1, 2, 3], [2, 3, 4]",
+                "expected_output": "[1, 2, 3, 4]"
+            },
+            {
+                "question": "Calculate the area of a circle",
+                "input": "radius = 5",
+                "expected_output": "78.54"
+            }
+        ]
+    },
+    {
+        "day": 5,
+        "questions": [
+            {
+                "question": "Check if a number is in a given range",
+                "input": "number = 15, start = 10, end = 20",
+                "expected_output": "true"
+            },
+            {
+                "question": "Count number of digits in an integer",
+                "input": "12345",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find the longest word in a string",
+                "input": "\"The quick brown fox jumps\"",
+                "expected_output": "\"jumps\""
+            },
+            {
+                "question": "Generate all prime numbers up to N",
+                "input": "20",
+                "expected_output": "[2, 3, 5, 7, 11, 13, 17, 19]"
+            },
+            {
+                "question": "Check if a string contains only digits",
+                "input": "\"12345\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Reverse words in a string",
+                "input": "\"Hello World\"",
+                "expected_output": "\"World Hello\""
+            },
+            {
+                "question": "Find all factors of a number",
+                "input": "12",
+                "expected_output": "[1, 2, 3, 4, 6, 12]"
+            },
+            {
+                "question": "Convert kilometers to miles",
+                "input": "5",
+                "expected_output": "3.11"
+            },
+            {
+                "question": "Check if a number is a perfect square",
+                "input": "16",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the difference between two arrays",
+                "input": "[1, 2, 3, 4], [2, 4]",
+                "expected_output": "[1, 3]"
+            }
+        ]
+    },
+    {
+        "day": 6,
+        "questions": [
+            {
+                "question": "Find the mode of an array",
+                "input": "[1, 2, 2, 3, 3, 3, 4]",
+                "expected_output": "3"
+            },
+            {
+                "question": "Calculate the standard deviation",
+                "input": "[2, 4, 4, 4, 5, 5, 7, 9]",
+                "expected_output": "2"
+            },
+            {
+                "question": "Format a number with commas",
+                "input": "1000000",
+                "expected_output": "\"1,000,000\""
+            },
+            {
+                "question": "Generate a random password",
+                "input": "length = 8",
+                "expected_output": "String of length 8 with mix of characters"
+            },
+            {
+                "question": "Check if all elements in array are unique",
+                "input": "[1, 2, 3, 4, 5]",
+                "expected_output": "true"
+            },
+            {
+                "question": "Convert Roman numeral to integer",
+                "input": "\"XIV\"",
+                "expected_output": "14"
+            },
+            {
+                "question": "Calculate BMI (Body Mass Index)",
+                "input": "weight = 70, height = 1.75",
+                "expected_output": "22.86"
+            },
+            {
+                "question": "Find the missing number in array",
+                "input": "[1, 2, 4, 5, 6]",
+                "expected_output": "3"
+            },
+            {
+                "question": "Truncate a string to specific length",
+                "input": "\"Hello World\", length = 5",
+                "expected_output": "\"Hello...\""
+            },
+            {
+                "question": "Implement bubble sort",
+                "input": "[5, 3, 8, 4, 2]",
+                "expected_output": "[2, 3, 4, 5, 8]"
+            }
+        ]
+    },
+    {
+        "day": 7,
+        "questions": [
+            {
+                "question": "Convert integer to Roman numeral",
+                "input": "14",
+                "expected_output": "\"XIV\""
+            },
+            {
+                "question": "Find the first non-repeating character",
+                "input": "\"programming\"",
+                "expected_output": "\"p\""
+            },
+            {
+                "question": "Implement insertion sort",
+                "input": "[5, 2, 4, 6, 1, 3]",
+                "expected_output": "[1, 2, 3, 4, 5, 6]"
+            },
+            {
+                "question": "Check if an array is sorted",
+                "input": "[1, 2, 3, 4, 5]",
+                "expected_output": "true"
+            },
+            {
+                "question": "Convert decimal to hexadecimal",
+                "input": "255",
+                "expected_output": "\"FF\""
+            },
+            {
+                "question": "Calculate the distance between two points",
+                "input": "(1, 2), (4, 6)",
+                "expected_output": "5"
+            },
+            {
+                "question": "Find common prefix in array of strings",
+                "input": "[\"flower\", \"flow\", \"flight\"]",
+                "expected_output": "\"fl\""
+            },
+            {
+                "question": "Implement linear search",
+                "input": "[2, 5, 8, 12, 16], target = 8",
+                "expected_output": "2"
+            },
+            {
+                "question": "Convert seconds to hours, minutes and seconds",
+                "input": "3661",
+                "expected_output": "\"1:1:1\""
+            },
+            {
+                "question": "Calculate percentage",
+                "input": "obtained = 85, total = 100",
+                "expected_output": "85"
+            }
+        ]
+    },
+    {
+        "day": 8,
+        "questions": [
+            {
+                "question": "Implement binary search",
+                "input": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10], target = 7",
+                "expected_output": "6"
+            },
+            {
+                "question": "Validate an email address",
+                "input": "\"test@example.com\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Convert hexadecimal to decimal",
+                "input": "\"FF\"",
+                "expected_output": "255"
+            },
+            {
+                "question": "Find the longest common subsequence",
+                "input": "\"ABCDGH\", \"AEDFHR\"",
+                "expected_output": "\"ADH\""
+            },
+            {
+                "question": "Generate Pascal's triangle",
+                "input": "numRows = 5",
+                "expected_output": "[[1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1]]"
+            },
+            {
+                "question": "Check if a number is a Fibonacci number",
+                "input": "8",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the longest increasing subsequence",
+                "input": "[10, 22, 9, 33, 21, 50, 41, 60]",
+                "expected_output": "[10, 22, 33, 50, 60]"
+            },
+            {
+                "question": "Implement merge sort",
+                "input": "[38, 27, 43, 3, 9, 82, 10]",
+                "expected_output": "[3, 9, 10, 27, 38, 43, 82]"
+            },
+            {
+                "question": "Validate a phone number",
+                "input": "\"123-456-7890\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the closest pair from two sorted arrays",
+                "input": "[1, 4, 5, 7], [10, 20, 30, 40], target = 32",
+                "expected_output": "[7, 30]"
+            }
+        ]
+    },
+    {
+        "day": 9,
+        "questions": [
+            {
+                "question": "Implement quick sort",
+                "input": "[10, 80, 30, 90, 40, 50, 70]",
+                "expected_output": "[10, 30, 40, 50, 70, 80, 90]"
+            },
+            {
+                "question": "Validate a credit card number",
+                "input": "\"4111-1111-1111-1111\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Solve the Tower of Hanoi",
+                "input": "3",
+                "expected_output": "7 moves required"
+            },
+            {
+                "question": "Find the maximum subarray sum",
+                "input": "[-2, 1, -3, 4, -1, 2, 1, -5, 4]",
+                "expected_output": "6"
+            },
+            {
+                "question": "Implement a stack using arrays",
+                "input": "push(1), push(2), pop(), push(3), peek()",
+                "expected_output": "3"
+            },
+            {
+                "question": "Implement a queue using arrays",
+                "input": "enqueue(1), enqueue(2), dequeue(), enqueue(3), peek()",
+                "expected_output": "2"
+            },
+            {
+                "question": "Check if two strings are isomorphic",
+                "input": "\"egg\", \"add\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find all permutations of a string",
+                "input": "\"abc\"",
+                "expected_output": "[\"abc\", \"acb\", \"bac\", \"bca\", \"cab\", \"cba\"]"
+            },
+            {
+                "question": "Implement a hash table",
+                "input": "put(\"key1\", \"value1\"), get(\"key1\")",
+                "expected_output": "\"value1\""
+            },
+            {
+                "question": "Detect cycle in a linked list",
+                "input": "1->2->3->4->2 (pointing back to node with value 2)",
+                "expected_output": "true"
+            }
+        ]
+    },
+    {
+        "day": 10,
+        "questions": [
+            {
+                "question": "Implement Dijkstra's algorithm",
+                "input": "Graph with vertices and weighted edges",
+                "expected_output": "Shortest distances from source to all vertices"
+            },
+            {
+                "question": "Solve the N-Queens problem",
+                "input": "n = 4",
+                "expected_output": "[['.Q..', '...Q', 'Q...', '..Q.'], ['..Q.', 'Q...', '...Q', '.Q..']]"
+            },
+            {
+                "question": "Implement a trie data structure",
+                "input": "insert(\"apple\"), search(\"apple\"), search(\"app\")",
+                "expected_output": "true, false"
+            },
+            {
+                "question": "Find the kth largest element in an array",
+                "input": "[3, 2, 1, 5, 6, 4], k = 2",
+                "expected_output": "5"
+            },
+            {
+                "question": "Implement BFS for a graph",
+                "input": "Graph with vertices and edges, start node",
+                "expected_output": "BFS traversal order"
+            },
+            {
+                "question": "Implement DFS for a graph",
+                "input": "Graph with vertices and edges, start node",
+                "expected_output": "DFS traversal order"
+            },
+            {
+                "question": "Implement a binary search tree",
+                "input": "insert(5), insert(3), insert(7), search(3)",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the longest palindromic substring",
+                "input": "\"babad\"",
+                "expected_output": "\"bab\" or \"aba\""
+            },
+            {
+                "question": "Solve the knapsack problem",
+                "input": "values = [60, 100, 120], weights = [10, 20, 30], capacity = 50",
+                "expected_output": "220"
+            },
+            {
+                "question": "Implement a min heap",
+                "input": "insert(3), insert(1), insert(5), extractMin()",
+                "expected_output": "1"
+            }
+        ]
+    },
+       {
+        "day": 11,
+        "questions": [
+            {
+                "question": "Implement a circular queue",
+                "input": "enqueue(1), enqueue(2), dequeue(), enqueue(3), front()",
+                "expected_output": "2"
+            },
+            {
+                "question": "Apply Floyd's cycle-finding algorithm",
+                "input": "1->2->3->4->5->3 (pointing back to node with value 3)",
+                "expected_output": "Node with value 3"
+            },
+            {
+                "question": "Find all combinations of a string",
+                "input": "\"abc\"",
+                "expected_output": "[\"a\", \"b\", \"c\", \"ab\", \"ac\", \"bc\", \"abc\"]"
+            },
+            {
+                "question": "Implement counting sort",
+                "input": "[4, 2, 2, 8, 3, 3, 1]",
+                "expected_output": "[1, 2, 2, 3, 3, 4, 8]"
+            },
+            {
+                "question": "Find the number of islands in a 2D matrix",
+                "input": "[[1,1,0,0,0], [1,1,0,0,0], [0,0,1,0,0], [0,0,0,1,1]]",
+                "expected_output": "3"
+            },
+            {
+                "question": "Implement a priority queue",
+                "input": "insert(3, 'low'), insert(1, 'high'), insert(2, 'medium'), extractMax()",
+                "expected_output": "1"
+            },
+            {
+                "question": "Apply Kadane's algorithm for maximum subarray sum",
+                "input": "[-2, -3, 4, -1, -2, 1, 5, -3]",
+                "expected_output": "7"
+            },
+            {
+                "question": "Find the majority element in an array",
+                "input": "[3, 3, 4, 2, 4, 4, 2, 4, 4]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Implement radix sort",
+                "input": "[170, 45, 75, 90, 802, 24, 2, 66]",
+                "expected_output": "[2, 24, 45, 66, 75, 90, 170, 802]"
+            },
+            {
+                "question": "Find word frequency in a text",
+                "input": "\"the quick brown fox jumps over the lazy dog\"",
+                "expected_output": "{\"the\": 2, \"quick\": 1, \"brown\": 1, \"fox\": 1, \"jumps\": 1, \"over\": 1, \"lazy\": 1, \"dog\": 1}"
+            }
+        ]
+    },
+    {
+        "day": 12,
+        "questions": [
+            {
+                "question": "Implement a segment tree for range queries",
+                "input": "array = [1, 3, 5, 7, 9, 11], query range = (1, 3)",
+                "expected_output": "Sum: 15"
+            },
+            {
+                "question": "Find the longest common prefix of array of strings",
+                "input": "[\"leetcode\", \"leet\", \"lee\", \"le\"]",
+                "expected_output": "\"le\""
+            },
+            {
+                "question": "Check if a string is a valid parentheses expression",
+                "input": "\"[({})]\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Implement Fisher-Yates shuffle algorithm",
+                "input": "[1, 2, 3, 4, 5]",
+                "expected_output": "A random permutation of the array"
+            },
+            {
+                "question": "Calculate edit distance between two strings",
+                "input": "\"horse\", \"ros\"",
+                "expected_output": "3"
+            },
+            {
+                "question": "Find the maximum product subarray",
+                "input": "[2, 3, -2, 4]",
+                "expected_output": "6"
+            },
+            {
+                "question": "Implement a topological sort algorithm",
+                "input": "Directed acyclic graph",
+                "expected_output": "Valid topological ordering"
+            },
+            {
+                "question": "Solve the subset sum problem",
+                "input": "array = [3, 34, 4, 12, 5, 2], sum = 9",
+                "expected_output": "true"
+            },
+            {
+                "question": "Implement a bloom filter",
+                "input": "add(\"apple\"), add(\"orange\"), check(\"apple\"), check(\"banana\")",
+                "expected_output": "true, false"
+            },
+            {
+                "question": "Convert a sorted array to a balanced BST",
+                "input": "[1, 2, 3, 4, 5, 6, 7]",
+                "expected_output": "Balanced binary search tree"
+            }
+        ]
+    },
+    {
+        "day": 13,
+        "questions": [
+            {
+                "question": "Implement a LRU cache",
+                "input": "capacity = 2, put(1, 1), put(2, 2), get(1), put(3, 3), get(2)",
+                "expected_output": "1, -1"
+            },
+            {
+                "question": "Find all triplets with zero sum",
+                "input": "[-1, 0, 1, 2, -1, -4]",
+                "expected_output": "[[-1, 0, 1], [-1, -1, 2]]"
+            },
+            {
+                "question": "Validate IP address",
+                "input": "\"172.16.254.1\"",
+                "expected_output": "\"IPv4\""
+            },
+            {
+                "question": "Implement Boyer-Moore voting algorithm",
+                "input": "[2, 2, 1, 1, 1, 2, 2]",
+                "expected_output": "2"
+            },
+            {
+                "question": "Solve the rotate image problem",
+                "input": "[[1,2,3],[4,5,6],[7,8,9]]",
+                "expected_output": "[[7,4,1],[8,5,2],[9,6,3]]"
+            },
+            {
+                "question": "Implement the A* search algorithm",
+                "input": "Grid with start and end points, obstacles",
+                "expected_output": "Shortest path"
+            },
+            {
+                "question": "Find the skyline problem solution",
+                "input": "[[2,9,10],[3,7,15],[5,12,12],[15,20,10],[19,24,8]]",
+                "expected_output": "[[2,10],[3,15],[7,12],[12,0],[15,10],[20,8],[24,0]]"
+            },
+            {
+                "question": "Implement the Rabin-Karp string matching algorithm",
+                "input": "text = \"abcabcabc\", pattern = \"abc\"",
+                "expected_output": "Indices: 0, 3, 6"
+            },
+            {
+                "question": "Solve the word search problem",
+                "input": "board = [[\"A\",\"B\",\"C\",\"E\"],[\"S\",\"F\",\"C\",\"S\"],[\"A\",\"D\",\"E\",\"E\"]], word = \"ABCCED\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Implement Red-Black Tree insertion",
+                "input": "insert 7, 3, 18, 10, 22, 8, 11, 26",
+                "expected_output": "Valid Red-Black Tree"
+            }
+        ]
+    },
+    {
+        "day": 14,
+        "questions": [
+            {
+                "question": "Implement the Bellman-Ford algorithm",
+                "input": "Graph with vertices and weighted edges, some negative",
+                "expected_output": "Shortest distances from source to all vertices"
+            },
+            {
+                "question": "Solve the coin change problem",
+                "input": "coins = [1, 2, 5], amount = 11",
+                "expected_output": "3"
+            },
+            {
+                "question": "Implement a B-tree",
+                "input": "insert 10, 20, 5, 6, 12, search 6",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the median of two sorted arrays",
+                "input": "[1, 3, 8, 9, 15], [7, 11, 18, 19, 21, 25]",
+                "expected_output": "11"
+            },
+            {
+                "question": "Implement graph coloring algorithm",
+                "input": "Undirected graph with vertices and edges",
+                "expected_output": "Valid coloring with minimum colors"
+            },
+            {
+                "question": "Generate all valid IP addresses from a string",
+                "input": "\"25525511135\"",
+                "expected_output": "[\"255.255.11.135\", \"255.255.111.35\"]"
+            },
+            {
+                "question": "Implement the Floyd-Warshall algorithm",
+                "input": "Graph with vertices and weighted edges",
+                "expected_output": "All pairs shortest paths"
+            },
+            {
+                "question": "Solve the word ladder problem",
+                "input": "beginWord = \"hit\", endWord = \"cog\", wordList = [\"hot\",\"dot\",\"dog\",\"lot\",\"log\",\"cog\"]",
+                "expected_output": "5"
+            },
+            {
+                "question": "Implement Kruskal's algorithm for MST",
+                "input": "Graph with vertices and weighted edges",
+                "expected_output": "Minimum spanning tree"
+            },
+            {
+                "question": "Solve the regular expression matching problem",
+                "input": "s = \"mississippi\", p = \"mis*is*p*.\"",
+                "expected_output": "false"
+            }
+        ]
+    },
+    {
+        "day": 15,
+        "questions": [
+            {
+                "question": "Implement Prim's algorithm for MST",
+                "input": "Graph with vertices and weighted edges",
+                "expected_output": "Minimum spanning tree"
+            },
+            {
+                "question": "Find the longest consecutive sequence",
+                "input": "[100, 4, 200, 1, 3, 2]",
+                "expected_output": "4"
+            },
+            {
+                "question": "Implement the Manacher's algorithm",
+                "input": "\"babad\"",
+                "expected_output": "\"bab\" or \"aba\""
+            },
+            {
+                "question": "Solve the sudoku solver problem",
+                "input": "9x9 sudoku grid with some filled cells",
+                "expected_output": "Completed valid sudoku"
+            },
+            {
+                "question": "Implement a skip list",
+                "input": "insert 3, 6, 7, 9, 12, search 7",
+                "expected_output": "true"
+            },
+            {
+                "question": "Solve the traveling salesman problem using DP",
+                "input": "Weighted graph with 4 vertices",
+                "expected_output": "Minimum cost path visiting all vertices"
+            },
+            {
+                "question": "Implement the KMP string matching algorithm",
+                "input": "text = \"ABABDABACDABABCABAB\", pattern = \"ABABCABAB\"",
+                "expected_output": "Index: 10"
+            },
+            {
+                "question": "Find the maximum flow in a network",
+                "input": "Directed graph with source, sink, and capacities",
+                "expected_output": "Maximum flow value"
+            },
+            {
+                "question": "Solve the wildcard pattern matching problem",
+                "input": "s = \"adceb\", p = \"*a*b\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Implement AVL tree insertion and balancing",
+                "input": "insert 9, 5, 10, 0, 6, 11, -1, 1, 2",
+                "expected_output": "Balanced AVL tree"
+            }
+        ]
+    },
+    {
+        "day": 16,
+        "questions": [
+            {
+                "question": "Implement a Patricia trie",
+                "input": "insert \"romane\", \"romanus\", \"romulus\", search \"romulus\"",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the number of connected components in an undirected graph",
+                "input": "Graph with vertices and edges",
+                "expected_output": "Number of connected components"
+            },
+            {
+                "question": "Implement Johnson's algorithm for all pairs shortest paths",
+                "input": "Graph with vertices and weighted edges, some negative",
+                "expected_output": "All pairs shortest paths"
+            },
+            {
+                "question": "Solve the word break problem",
+                "input": "s = \"leetcode\", wordDict = [\"leet\", \"code\"]",
+                "expected_output": "true"
+            },
+            {
+                "question": "Find the longest path in a directed acyclic graph",
+                "input": "DAG with vertices and weighted edges",
+                "expected_output": "Longest path from source to all vertices"
+            },
+            {
+                "question": "Implement the Z algorithm for pattern matching",
+                "input": "text = \"aaabcaabxaaaz\", pattern = \"aaab\"",
+                "expected_output": "Indices: 0, 7"
+            },
+            {
+                "question": "Solve the maximum bipartite matching problem",
+                "input": "Bipartite graph with U and V vertices",
+                "expected_output": "Maximum number of matchings"
+            },
+            {
+                "question": "Implement a suffix array",
+                "input": "\"banana\"",
+                "expected_output": "[5, 3, 1, 0, 4, 2]"
+            },
+            {
+                "question": "Find the shortest path in a maze",
+                "input": "maze = [[0,0,0,0,0], [1,1,0,1,0], [0,0,0,0,0], [0,1,1,1,0], [0,0,0,0,0]], start = (0,0), end = (4,4)",
+                "expected_output": "8"
+            },
+            {
+                "question": "Implement an interval tree",
+                "input": "intervals = [(15, 20), (10, 30), (17, 19), (5, 20), (12, 15), (30, 40)]",
+                "expected_output": "Data structure supporting interval queries"
+            }
+        ]
+    },
+    {
+        "day": 17,
+        "questions": [
+            {
+                "question": "Implement the Hungarian algorithm for assignment problem",
+                "input": "Cost matrix of workers and jobs",
+                "expected_output": "Optimal assignment minimizing cost"
+            },
+            {
+                "question": "Find bridges in an undirected graph",
+                "input": "Graph with vertices and edges",
+                "expected_output": "List of bridges (critical connections)"
+            },
+            {
+                "question": "Solve the minimum vertex cover problem",
+                "input": "Graph with vertices and edges",
+                "expected_output": "Minimum vertex cover set"
+            },
+            {
+                "question": "Implement the Aho-Corasick algorithm",
+                "input": "text = \"abccab\", patterns = [\"a\", \"ab\", \"bc\", \"c\", \"cab\"]",
+                "expected_output": "All pattern occurrences in text"
+            },
+            {
+                "question": "Find articulation points in an undirected graph",
+                "input": "Graph with vertices and edges",
+                "expected_output": "List of articulation points"
+            },
+            {
+                "question": "Implement Tarjan's strongly connected components algorithm",
+                "input": "Directed graph with vertices and edges",
+                "expected_output": "List of strongly connected components"
+            },
+            {
+                "question": "Solve the minimum cost flow problem",
+                "input": "Flow network with costs",
+                "expected_output": "Minimum cost maximum flow"
+            },
+            {
+                "question": "Implement a persistent data structure",
+                "input": "Operations on a persistent array or tree",
+                "expected_output": "Correct results for each version"
+            },
+            {
+                "question": "Find the maximum sum rectangle in a 2D matrix",
+                "input": "[[1, 2, -1, -4, -20], [-8, -3, 4, 2, 1], [3, 8, 10, 1, 3], [-4, -1, 1, 7, -6]]",
+                "expected_output": "29"
+            },
+            {
+                "question": "Implement the Ford-Fulkerson algorithm",
+                "input": "Flow network with source and sink",
+                "expected_output": "Maximum flow value"
+            }
+        ]
+    },
+    {
+        "day": 18,
+        "questions": [
+            {
+                "question": "Implement a splay tree",
+                "input": "insert 3, 1, 5, 7, search 5",
+                "expected_output": "true, with 5 at root"
+            },
+            {
+                "question": "Solve the linear programming problem using simplex method",
+                "input": "Objective function and constraints",
+                "expected_output": "Optimal solution value"
+            },
+            {
+                "question": "Find the maximum independent set in a tree",
+                "input": "Tree with vertices and edges",
+                "expected_output": "Maximum independent set size"
+            },
+            {
+                "question": "Implement the Ukkonen's algorithm for suffix tree",
+                "input": "\"banana\"",
+                "expected_output": "Suffix tree with all suffixes"
+            },
+            {
+                "question": "Solve the 0/1 knapsack problem using branch and bound",
+                "input": "values = [60, 100, 120], weights = [10, 20, 30], capacity = 50",
+                "expected_output": "220"
+            },
+            {
+                "question": "Implement the Edmonds-Karp algorithm",
+                "input": "Flow network with source and sink",
+                "expected_output": "Maximum flow value"
+            },
+            {
+                "question": "Find the minimum spanning arborescence in a directed graph",
+                "input": "Directed graph with weighted edges and root",
+                "expected_output": "Minimum spanning arborescence"
+            },
+            {
+                "question": "Implement the Hopcroft-Karp algorithm for bipartite matching",
+                "input": "Bipartite graph with U and V vertices",
+                "expected_output": "Maximum bipartite matching"
+            },
+            {
+                "question": "Solve the maximum cut problem",
+                "input": "Graph with vertices and weighted edges",
+                "expected_output": "Maximum cut value and partition"
+            },
+            {
+                "question": "Implement the wavelet tree data structure",
+                "input": "array = [3, 1, 4, 1, 5, 9, 2, 6]",
+                "expected_output": "Data structure supporting range queries"
+            }
+        ]
+    },
+    {
+        "day": 19,
+        "questions": [
+            {
+                "question": "Implement the union-find data structure with path compression",
+                "input": "union(1,2), union(2,3), find(1), find(3)",
+                "expected_output": "Same root for 1 and 3"
+            },
+            {
+                "question": "Solve the maximum flow with minimum cost problem",
+                "input": "Flow network with costs",
+                "expected_output": "Maximum flow with minimum cost"
+            },
+            {
+                "question": "Find the shortest superstring containing all strings",
+                "input": "[\"alex\", \"loves\", \"leetcode\"]",
+                "expected_output": "\"alexlovesleetcode\""
+            },
+            {
+                "question": "Implement the Gale-Shapley algorithm for stable matching",
+                "input": "Preferences for two groups of equal size",
+                "expected_output": "Stable matching"
+            },
+            {
+                "question": "Solve the minimum dominating set problem",
+                "input": "Graph with vertices and edges",
+                "expected_output": "Minimum dominating set"
+            },
+            {
+                "question": "Implement the treap data structure",
+                "input": "insert 3, 1, 5, 7, delete 1",
+                "expected_output": "Valid treap"
+            },
+            {
+                "question": "Find the maximum independent set in a bipartite graph",
+                "input": "Bipartite graph with U and V vertices",
+                "expected_output": "Maximum independent set"
+            },
+            {
+                "question": "Implement the A-star algorithm for grid with obstacles",
+                "input": "Grid with start, end, and obstacles",
+                "expected_output": "Shortest path"
+            },
+            {
+                "question": "Solve the all-pairs bottleneck paths problem",
+                "input": "Graph with vertices and weighted edges",
+                "expected_output": "Maximum capacity paths between all pairs"
+            },
+            {
+                "question": "Implement a segment tree with lazy propagation",
+                "input": "array = [1, 3, 5, 7, 9, 11], update(1, 3, +5), query(2, 4)",
+                "expected_output": "37"
+            }
+        ]
+    },
+    {
+        "day": 20,
+        "questions": [
+            {
+                "question": "Implement the Christofides algorithm for TSP",
+                "input": "Complete graph with vertices and weighted edges",
+                "expected_output": "Approximation of shortest Hamiltonian cycle"
+            },
+            {
+                "question": "Find the maximum flow in a network with multiple sources and sinks",
+                "input": "Flow network with multiple sources and sinks",
+                "expected_output": "Maximum flow value"
+            },
+            {
+                "question": "Implement the Karatsuba algorithm for fast multiplication",
+                "input": "1234, 5678",
+                "expected_output": "7006652"
+            },
+            {
+                "question": "Solve the channel assignment problem",
+                "input": "Graph with vertices and edges, available frequencies",
+                "expected_output": "Valid frequency assignment"
+            },
+            {
+                "question": "Implement the Link/Cut tree data structure",
+                "input": "link(1,2), link(2,3), cut(2,3), findRoot(1)",
+                "expected_output": "1"
+            },
+            {
+                "question": "Find the Euler tour of a graph",
+                "input": "Graph with vertices and edges",
+                "expected_output": "Euler tour sequence"
+            },
+            {
+                "question": "Implement the Aho-Corasick algorithm for multiple pattern matching",
+                "input": "text = \"ABABCABABCD\", patterns = [\"AB\", \"ABC\", \"BC\", \"CD\"]",
+                "expected_output": "All pattern occurrences in text"
+            },
+            {
+                "question": "Solve the maximum weight bipartite matching problem",
+                "input": "Bipartite graph with weighted edges",
+                "expected_output": "Maximum weight matching"
+            },
+            {
+                "question": "Implement the suffix automaton data structure",
+                "input": "\"banana\"",
+                "expected_output": "Data structure supporting string queries"
+            },
+            {
+                "question": "Implement the heavy-light decomposition technique",
+                "input": "Tree with vertices and edges",
+                "expected_output": "Decomposition supporting path queries"
+            }
+        ]
+    }
+]

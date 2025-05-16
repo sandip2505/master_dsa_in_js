@@ -163,6 +163,11 @@
         </div>
 
         <!-- DSA Questions Display -->
+          <!-- <% dsaData.forEach(dayData => { %>
+          <% dayData.questions.forEach((question, index) => { %>
+            <p><%= question.question %></p>
+            <% }); %>
+            <% }); %> -->
         <% if (dsaData.length === 0) { %>
             <div class="no-data">No DSA questions found.</div>
         <% } else { %>
